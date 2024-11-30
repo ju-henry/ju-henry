@@ -18,6 +18,19 @@ for:
 <div display="flex">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
 </div>
+
+### 🏁 My projects
+
+#### <ins>WildlyMe</ins>
+A personality test built using Flask and NumPy.  
+📁 [View on Github](https://github.com/ju-henry/WildlyMe)  
+👉 [Test it](https://wildlyme-67kboof6.b4a.run/)
+
+#### <ins>byHeart</ins>
+A flashcard app to learn German & French words, built using React.  
+📁 [View on Github](https://github.com/ju-henry/byHeart)  
+👉 [Test it](https://byheart-qcf6yc1r.b4a.run/)
+
 <!--
 **ju-henry/ju-henry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
