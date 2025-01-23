@@ -31,6 +31,11 @@ A flashcard app to learn German & French words, built using React.
 📁 [View on Github](https://github.com/ju-henry/byHeart)  
 👉 [Test it](https://byheart-qcf6yc1r.b4a.run/)
 
+#### <ins>regex in R</ins>
+A small experiment to compare regex speed between R v.4 and R v.3, using Docker.  
+📁 [View on Github](https://github.com/ju-henry/regex-speed)  
+👉 [Read it](https://ju-henry.quarto.pub/regex-speed/)
+
 <!--
 **ju-henry/ju-henry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
