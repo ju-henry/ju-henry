@@ -1,23 +1,23 @@
 ## Hi there 👋
 
-### 👨‍💻 I have 7+ years of experience on
-<div display="flex">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-</div>
-<br>
+I am a Software Developer specialized in mathematics (statistics, data science).
+
+### 👨‍💻 I have 7 years of experience with
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
 
 for:  
 
-- data analysis
+- data manipulation
 - machine learning
 - development
 - visualization
 - statistics
 
 ### 🌱 I’m learning
-<div display="flex">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-</div>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/> <img src="https://shields.io/badge/-javascript-4377cb?style=for-the-badge&logo=javascript" alt="Javascript"/>
+
+### 🛠️ Skills
+R, Python, JavaScript, Statistics, Data Visualization, Machine Learning, Deep Learning, Git, Flask, Docker, AWS
 
 ### 🏁 My projects
 
@@ -30,6 +30,11 @@ A personality test built using Flask and NumPy.
 A flashcard app to learn German & French words, built using React.  
 📁 [View on Github](https://github.com/ju-henry/byHeart)  
 👉 [Test it](https://byheart-qcf6yc1r.b4a.run/)
+
+#### <ins>Homicides</ins>
+A visualization of the number of homicides in Europe over 30 years, built using R and Javascript.  
+📁 [View on Github](https://github.com/ju-henry/homicides)  
+👉 [View it](https://ju-henry.quarto.pub/homicides/)
 
 #### <ins>regex in R</ins>
 A small experiment to compare regex speed between R v.4 and R v.3, using Docker.  
