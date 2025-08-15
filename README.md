@@ -41,6 +41,11 @@ A small experiment to compare regex speed between R v.4 and R v.3, using Docker.
 📁 [View on Github](https://github.com/ju-henry/regex-speed)  
 👉 [Read it](https://ju-henry.quarto.pub/regex-speed/)
 
+#### <ins>JSON parser</ins>
+A small experiment to compare the speed of some tools to parse JSON files, using R, Bash, Python, Docker.  
+📁 [View on Github](https://github.com/ju-henry/JSONparser)  
+👉 [Read it](https://ju-henry.quarto.pub/json-parser-speed/)
+
 <!--
 **ju-henry/ju-henry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
