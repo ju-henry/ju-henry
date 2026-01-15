@@ -29,7 +29,7 @@ A personality test built using Flask and NumPy.
 #### <ins>byHeart</ins>
 A flashcard app to learn German & French words, built using React.  
 📁 [View on Github](https://github.com/ju-henry/byHeart)  
-👉 [Test it](https://byheart-qcf6yc1r.b4a.run/)
+👉 [Test it](https://by-heart-pied.vercel.app/)
 
 #### <ins>Homicides</ins>
 A visualization of the number of homicides in Europe over 30 years, built using R and Javascript.  
