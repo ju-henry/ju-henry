@@ -24,7 +24,7 @@ R, Python, JavaScript, Statistics, Data Visualization, Machine Learning, Deep Le
 #### <ins>WildlyMe</ins>
 A personality test built using Flask and NumPy.  
 📁 [View on Github](https://github.com/ju-henry/WildlyMe)  
-👉 [Test it](https://wildlyme-67kboof6.b4a.run/)
+👉 [Test it](https://wildlyme-1.onrender.com/)
 
 #### <ins>byHeart</ins>
 A flashcard app to learn German & French words, built using React.  
