@@ -12,15 +12,16 @@ for:
 - development
 - visualization
 - statistics
-
+<!--
 ### 🌱 I’m learning
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/> <img src="https://shields.io/badge/-javascript-4377cb?style=for-the-badge&logo=javascript" alt="Javascript"/>
 
 ### 🛠️ Skills
-R, Python, JavaScript, Statistics, Data Visualization, Machine Learning, Deep Learning, Git, Flask, Docker, AWS
+R, Python, JavaScript, Statistics, Data Visualization, Machine Learning, Deep Learning, Git, Docker, AWS
+-->
 
 ### 🏁 My projects
-
+<!--
 #### <ins>WildlyMe</ins>
 A personality test built using Flask and NumPy.  
 📁 [View on Github](https://github.com/ju-henry/WildlyMe)  
@@ -30,6 +31,7 @@ A personality test built using Flask and NumPy.
 A flashcard app to learn German & French words, built using React.  
 📁 [View on Github](https://github.com/ju-henry/byHeart)  
 👉 [Test it](https://by-heart-pied.vercel.app/)
+-->
 
 #### <ins>Homicides</ins>
 A visualization of the number of homicides in Europe over 30 years, built using R and Javascript.  
